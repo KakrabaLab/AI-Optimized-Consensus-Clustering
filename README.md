@@ -1,4 +1,4 @@
-##Code and Computational Workflow for AI-Optimized Amino Acid Consensus Clustering Analysis##
+#Python Workflow for AI-Optimized-Consensus Clustering Analysis for Amino Acids #
 
 This code uses the file "amino_acid3.csv" from our github page. You can adapt it to other files of your choice.
 
@@ -6,4 +6,4 @@ This code uses the file "amino_acid3.csv" from our github page. You can adapt it
 @authors: Samuel Kakraba, Aayire C. Yadem, Kuukua E. Abraham
 @address:Department of Biostatistics and Data Science, Tulane University Celia Scott Weatherhead School of Public Health and Tropical Medicine, Tulane University, USA
 @contact: skakraba@tulane.edu
-@citation: Kakraba S., Yadem C.A., Abraham E. K.(2025). This is the Code and Computational Workflow for AI-Optimized Amino Acid Consensus Clustering Analysis.
+@citation: Kakraba S., Yadem C.A., Abraham E. K.(2025). This is the Python Workflow for AI-Optimized-Consensus Clustering Analysis for Amino Acids.
